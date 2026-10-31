@@ -1,0 +1,33 @@
+
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# Unity build outputs
+[Bb]uild/
+[Bb]uilds/
+
+# IDE generated files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+
+# Python generated files
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
