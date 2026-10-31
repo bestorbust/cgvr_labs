@@ -31,7 +31,7 @@ The triangle rotates continuously, providing an interactive demonstration of sha
 ## Project Structure
 
 ```text
-Lab/
+lab8/
 ├── Assets/
 │   ├── Materials/
 │   │   └── RGB_Triangle_Material.mat
