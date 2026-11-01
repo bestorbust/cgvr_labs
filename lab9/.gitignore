@@ -1,0 +1,42 @@
+# Unity generated caches and temporary files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# Unity build outputs
+[Bb]uild/
+[Bb]uilds/
+
+# IDE and editor files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python caches (if any tooling is used)
+__pycache__/
+*.py[cod]
+.venv/
+
+# Do not ignore Unity .meta files, Assets, Packages or ProjectSettings.
