@@ -1,0 +1,73 @@
+# ====================================================================
+# Unity Project .gitignore — AutoVerse / CaseStudy
+# ====================================================================
+
+# Unity Generated Folders & Caches
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Pp]rofilerCaptures/
+
+# Visual Studio & IDE Auto-generated Project Files
+.vs/
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/extensions.json
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity Crash Reports & Diagnostics
+sysinfo.txt
+*.stackdump
+crashlytics-build.properties
+
+# Builds & Binaries
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.dll
+*.so
+*.dylib
+
+# WebGL Build Artifacts (Keep vercel.json, .bat server scripts, but ignore large binary output)
+AutoVerse/Builds/WEB-GL/Build/*.data
+AutoVerse/Builds/WEB-GL/Build/*.data.br
+AutoVerse/Builds/WEB-GL/Build/*.wasm
+AutoVerse/Builds/WEB-GL/Build/*.wasm.br
+AutoVerse/Builds/Windows/
+AutoVerse/Builds/WebGL/
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# Package Manager Cache
+AutoVerse/Packages/manifest.json.lock
+

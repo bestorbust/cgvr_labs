@@ -1,0 +1,77 @@
+=================================================
+      AUTOVERSE AUTOMATED VERIFICATION SUITE      
+Timestamp: 2026-11-01 17:54:25
+=================================================
+
+[PASS] Scene Load Scene: Assets/Scenes/AutoVerse_Showwroom.unity
+[PASS] CarSelector Present 
+[PASS] VehiclePainter Present 
+[PASS] ShowroomCamera Present 
+[PASS] ShowroomLightingManager Present 
+[PASS] Car Count = 8 Found 8
+[PASS] Vehicle [0] Selection (car_sports) 
+[PASS] Vehicle [1] Selection (car_sedan) 
+[PASS] Vehicle [2] Selection (car_hatchback) 
+[PASS] Vehicle [3] Selection (car_suv) 
+[PASS] Vehicle [4] Selection (race_car) 
+[PASS] Vehicle [5] Selection (car_police) 
+[PASS] Vehicle [6] Selection (car_taxi) 
+[PASS] Vehicle [7] Selection (golf_cart) 
+[PASS] Vehicle [0] Body Colors (18 Colors) 
+[PASS] Vehicle [0] Finishes (4 Finishes) 
+[PASS] Vehicle [0] Wheels (5 Finishes) 
+[PASS] Vehicle [0] Window Tint Supported 
+[PASS] Vehicle [0] Headlights Supported 
+[PASS] Vehicle [0] Reset Customization 
+[PASS] Vehicle [1] Body Colors (18 Colors) 
+[PASS] Vehicle [1] Finishes (4 Finishes) 
+[PASS] Vehicle [1] Wheels (5 Finishes) 
+[PASS] Vehicle [1] Window Tint Supported 
+[PASS] Vehicle [1] Headlights Supported 
+[PASS] Vehicle [1] Reset Customization 
+[PASS] Vehicle [2] Body Colors (18 Colors) 
+[PASS] Vehicle [2] Finishes (4 Finishes) 
+[PASS] Vehicle [2] Wheels (5 Finishes) 
+[PASS] Vehicle [2] Window Tint Supported 
+[PASS] Vehicle [2] Headlights Supported 
+[PASS] Vehicle [2] Reset Customization 
+[PASS] Vehicle [3] Body Colors (18 Colors) 
+[PASS] Vehicle [3] Finishes (4 Finishes) 
+[PASS] Vehicle [3] Wheels (5 Finishes) 
+[PASS] Vehicle [3] Window Tint Supported 
+[PASS] Vehicle [3] Headlights Supported 
+[PASS] Vehicle [3] Reset Customization 
+[PASS] Vehicle [4] Body Colors (18 Colors) 
+[PASS] Vehicle [4] Finishes (4 Finishes) 
+[PASS] Vehicle [4] Wheels (5 Finishes) 
+[PASS] Vehicle [4] Window Tint Correctly Guarded 
+[PASS] Vehicle [4] Headlights Correctly Guarded 
+[PASS] Vehicle [4] Reset Customization 
+[PASS] Vehicle [5] Body Colors (18 Colors) 
+[PASS] Vehicle [5] Finishes (4 Finishes) 
+[PASS] Vehicle [5] Wheels (5 Finishes) 
+[PASS] Vehicle [5] Window Tint Supported 
+[PASS] Vehicle [5] Headlights Supported 
+[PASS] Vehicle [5] Reset Customization 
+[PASS] Vehicle [6] Body Colors (18 Colors) 
+[PASS] Vehicle [6] Finishes (4 Finishes) 
+[PASS] Vehicle [6] Wheels (5 Finishes) 
+[PASS] Vehicle [6] Window Tint Supported 
+[PASS] Vehicle [6] Headlights Supported 
+[PASS] Vehicle [6] Reset Customization 
+[PASS] Vehicle [7] Body Colors (18 Colors) 
+[PASS] Vehicle [7] Finishes (4 Finishes) 
+[PASS] Vehicle [7] Wheels (5 Finishes) 
+[PASS] Vehicle [7] Window Tint Supported 
+[PASS] Vehicle [7] Headlights Supported 
+[PASS] Vehicle [7] Reset Customization 
+[PASS] Lighting Style [0] (LuxuryStudio) 
+[PASS] Lighting Style [1] (MidnightStudio) 
+[PASS] Lighting Style [2] (BrightGallery) 
+[PASS] Lighting Style [3] (NeonGarage) 
+[PASS] Lighting Brightness Adjust 
+[PASS] Camera Presets & Turntable Toggle Turntable was: True
+
+-------------------------------------------------
+SUMMARY: Total Tests: 68 | PASSED: 68 | FAILED: 0
+-------------------------------------------------
